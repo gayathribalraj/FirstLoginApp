@@ -18,13 +18,13 @@ class _MyWidgetState extends State<dashboard> {
      backgroundColor: const Color.fromARGB(125, 224, 214, 182),
      body: Column(
       children: [
+        Container(
+          height: 50,
+          color: const Color.fromARGB(255, 82, 89, 208),
+
+        )
+        
       
-
-    
-
-
-
-
 
 
       ],
